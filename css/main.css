@@ -22,20 +22,27 @@ html {
   background-color: #e97065;
 }
 
-.wHead {
+.whead {
   font-family: "Rammetto One", cursive;
+  margin: 0;
 }
 
 .starfruit {
-  font-family: "Gravitas One", cursive;
   background-color: #fbd25e;
 }
 
+.shead {
+  font-family: "Gravitas One", cursive;
+}
+
 .persimmon {
-  font-family: "Comfortaa", cursive;
   background-color: #e86033;
 }
 
-.body {
- margin: 0;
+.phead {
+  font-family: Comfortaa, cursive;
+}
+
+body {
+  margin: 0;
 }
